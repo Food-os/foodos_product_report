@@ -14,7 +14,7 @@ Simply a 🐱‍🏍 Super Bot 🐱‍🚀
 
 * 1.0.0
     * Bot could complete user profile (Login and Logout)
-    * It could engage conversation with users with sometime, but got very bad review
+    * It could engage conversation with users for sometime, but got very bad review 😓
     * Bot could take orders 
 
 
