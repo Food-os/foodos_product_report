@@ -28,7 +28,7 @@ Simply a 🐱‍🏍 Super Bot 🐱‍🚀
 ## Deployment infomations for version 1.0.0
 
   * React - Netlify (pass 2021foodosfoodos)
-  * Nodejs - Heroku (foodos.desk@google.com)
+  * Nodejs - Heroku (foodos.desk@gmail.com)
   * MongoDB - Altas ()
   * RASA (GCP VM instance), action too
   * WA-Node (Not deployed yet)
